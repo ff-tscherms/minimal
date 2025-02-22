@@ -14,10 +14,10 @@ address:
   - line: 39010 Tscherms
   # Feel free to add more lines here 
 telephone: 39 0473 564565
-mwstr: 91011500211
+strnr: 91011500211
 
 
 # API settings
-google_api_key: AIzaSyDK88w-3428TamTIYA_5MPFtu7BcZYasX0 
+google_api_key: AIzaSyCISFU97SQrAlTclish1CjPS5wn_v_mbrM  
 # Build settings
 markdown: kramdown
