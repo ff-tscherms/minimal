@@ -162,6 +162,12 @@ hr.small {
     -o-background-size: cover;
 }
 
+/* Header Logo*/
+
+.headerlogo {
+    padding: 10px 0;
+}
+
 /* About */
 
 .about {
