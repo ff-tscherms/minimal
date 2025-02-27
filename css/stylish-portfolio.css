@@ -186,6 +186,19 @@ hr.small {
 
 /* Callout */
 
+.festbetrieb {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #000;
+    background: url(../img/willis_cut_sw_fest.JPG) no-repeat center center scroll;
+    opacity: 80%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .callout {
     display: table;
     width: 100%;
