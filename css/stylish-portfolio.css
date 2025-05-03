@@ -289,3 +289,13 @@ td {
     padding: 0 3px;
     text-align: left;
 }
+
+/* Video */
+
+video {
+    display: block;
+    margin: 0 auto;
+    max-height: 100vh;
+    width: auto;
+    height: auto;
+  }
