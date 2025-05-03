@@ -174,17 +174,6 @@ hr.small {
     -o-background-size: cover;
 }
 
-.video {
-    display: table;
-    position: relative;
-    width: 100%;
-    height: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
 /* Header Logo*/
 
 .headerlogo {
@@ -300,3 +289,19 @@ td {
     padding: 0 3px;
     text-align: left;
 }
+
+/* Video */
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: white;
+  }
+
+  video {
+    max-height: 100%;
+    height: 100%;
+    width: auto;
+  }
