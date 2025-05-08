@@ -211,6 +211,27 @@ hr.small {
     -o-background-size: cover;
 }
 
+.map_rundfahrt {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #000;
+    background: url(../img/ausfahrt.png) no-repeat center center scroll;
+    opacity: 80%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.map_link {
+    display: block;
+    width: 100%;
+    height: 400px;
+    text-decoration: none;
+    color: inherit;
+}
+
 .callout {
     display: table;
     width: 100%;
